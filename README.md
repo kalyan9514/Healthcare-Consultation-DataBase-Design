@@ -37,7 +37,7 @@ The design ensures scalability, data integrity, and support for complex query op
 
 **SQL Implementation:**
 
-The SQL script (Database_Design.sql) sets up a relational database with primary and foreign key constraints to maintain data consistency.
+The SQL script (Database.sql) sets up a relational database with primary and foreign key constraints to maintain data consistency.
 
 **Key Capabilities:**
 
@@ -58,7 +58,7 @@ The SQL script (Database_Design.sql) sets up a relational database with primary 
 **How to Use:**
 
 1. Set up the Database:
-Run the Database_Design.sql script in your MySQL environment.
+Run the Database.sql script in your MySQL environment.
 
 2. Add Sample Data:
 Populate the tables to simulate patient-doctor interactions, appointments, and case logs.
