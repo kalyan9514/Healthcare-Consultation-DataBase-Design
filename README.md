@@ -1,6 +1,7 @@
 # Healthcare-Consultation-DataBase-Design
 
-Overview
+**Overview:**
+
 This project delivers a scalable database solution to support online medical consultations. It aims to digitize essential healthcare processes such as appointment scheduling, patient case tracking, and doctor-patient communication. The system leverages a well-designed Entity-Relationship Diagram (ERD) and a structured SQL schema to ensure efficient and reliable data management.
 
 **Key Features:**
