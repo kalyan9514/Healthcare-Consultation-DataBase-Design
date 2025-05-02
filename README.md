@@ -24,6 +24,7 @@ Collect and analyze patient feedback for continuous service improvement.
 Automatically match patient-reported symptoms to relevant medical specialists.
 
 **Database Design:**
+
 The system is built upon a normalized and modular ERD featuring the following entities:
 
 1. Core Entities:
@@ -35,6 +36,7 @@ MedicationOrder, DoctorAppointmentSchedule, ConsultationRoom, PatientFeedback
 The design ensures scalability, data integrity, and support for complex query operations.
 
 **SQL Implementation:**
+
 The SQL script (Database_Design.sql) sets up a relational database with primary and foreign key constraints to maintain data consistency.
 
 **Key Capabilities:**
